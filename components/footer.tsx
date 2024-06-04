@@ -12,7 +12,7 @@ const Footer = () => {
           Made by&nbsp;
           <Link
             className="text-sky-500"
-            href="https://instagram.com/ridhomyers"
+            href="https://instagram.com/ridhorfai"
             rel="noopener noreferrer"
             target="_blank"
           >
